@@ -1,0 +1,5 @@
+T is 2-m temperature in Kelvin.
+SMB is surface mass balance in kg m-2 s-1
+time is the time in days, following the format used by the matlab function datevec.m
+X is one of the polar steroegraphic coordinates in m from south pole
+Y is the other polar stereographic coordinate (orthogonal to Y) in m from south pole
